@@ -3,13 +3,12 @@
 1. Open **CityEngine**
 
 2. Create a New CityEngine Project(*.cej), which should be in the "scene" folder (in [scenes](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/scenes/scenes_of_xview)/*.cej), and in the top bar, use "Rectangular shape creation" to draw a rectangle in the 3d scene. ![image](https://user-images.githubusercontent.com/12199053/120770167-75d6d080-c550-11eb-9904-e33dbff1a866.png) 
-![image](https://user-images.githubusercontent.com/12199053/120770448-bb939900-c550-11eb-8354-12504507994b.png=304x304)
+ <img  alt = "image" src="https://user-images.githubusercontent.com/12199053/120770448-bb939900-c550-11eb-8354-12504507994b.png" width="304" height="304">
 
 
 3. Prepare background images ([maps](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/maps/*.jpg)/*.jpg or *.png), we can directly drag the background image into the shape you draw in the scene. for example: 
 
-
-  ![maps/310_bkg_4_4.jpg](https://github.com/yangxu351/synthetic_xview_airplanes/raw/master/maps/310_bkg_4_4.jpg=304x304) 
+  <img  alt = "maps/310_bkg_4_4.jpg" src="https://github.com/yangxu351/synthetic_xview_airplanes/raw/master/maps/310_bkg_4_4.jpg" width="304" height="304">
 
 4. Prepare 3D airplane models ([assets](https://github.com/yangxu351/synthetic_xview_airplanes/raw/master/assets/aircraft/) (\*.OBJ, \*.glb, \*.fbx) 
 
@@ -19,9 +18,9 @@
 
 7. Run python files (F9) in CityEngine, then all captured files will be saved in the folder of [images](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/images)
 
-![images/images/1.png](https://github.com/yangxu351/synthetic_xview_airplanes/raw/master/images/syn_xview_bkg_new_bkg_unif_shdw_split_scatter_gauss_rndsolar_ssig0.08_color_square_bias0_CC1_v50/color_all_images_step182.4/color_airplanes_xview_background_sd1038_1.png=304x304)
+<img  alt = "images/images/1.png" src="https://github.com/yangxu351/synthetic_xview_airplanes/raw/master/images/syn_xview_bkg_new_bkg_unif_shdw_split_scatter_gauss_rndsolar_ssig0.08_color_square_bias0_CC1_v50/color_all_images_step182.4/color_airplanes_xview_background_sd1038_1.png" width="304" height="304">
 
-![images/annos/1.png](https://github.com/yangxu351/synthetic_xview_airplanes/raw/master/images/syn_xview_bkg_new_bkg_unif_shdw_split_scatter_gauss_rndsolar_ssig0.08_color_square_bias0_CC1_v50/color_all_annos_step182.4/color_airplanes_xview_background_sd1038_1.png=304x304)
+<img  alt = "images/annos/1.png" src="https://github.com/yangxu351/synthetic_xview_airplanes/raw/master/images/syn_xview_bkg_new_bkg_unif_shdw_split_scatter_gauss_rndsolar_ssig0.08_color_square_bias0_CC1_v50/color_all_annos_step182.4/color_airplanes_xview_background_sd1038_1.png" width="304" height="304">
 
 **Note: there is a bug of math log function in CityEngine**
 
