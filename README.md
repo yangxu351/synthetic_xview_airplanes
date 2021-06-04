@@ -28,7 +28,8 @@
 ### Citation ###
 
 If you find these models useful for your resesarch, please cite with these bibtexs.
-@article{zhang2017real,
+
+@article{yangxu2021,
   title={SIMPL: Generating Synthetic Overhead Imagery of Rare Target Objects to Enhance Zero-shot and Few-Shot Detection Problems},
   author={Yang Xu, Bohao Huang, Kyle Bradbury, Xiong Luo, and Jordan M. Malof}
   
