@@ -5,7 +5,7 @@
 2. Create a New CityEngine Project(*.cej), which should be in the "scene" folder (in [scenes](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/scenes/scenes_of_xview)/*.cej)
 
 3. prepare background images ([maps](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/maps/*.jpg)/*.jpg or *.png)
-  for example: [background](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/maps/310_bkg_4_4.jpg) 
+  for example: ![maps/310_bkg_4_4.jpg](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/maps/310_bkg_4_4.jpg) 
 
 4. create a rule to design the loacation, size, color of 3D airpplane models [assets](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/assets)/*.obj
 
