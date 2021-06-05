@@ -18,7 +18,7 @@
 
 Illustration of synthetic data generation process
 
-<src alt="Illustration of synthetic data generation process" img="https://user-images.githubusercontent.com/12199053/120874169-f2f95880-c5d7-11eb-8840-ef2ec44e0c56.png" >
+<img alt="Illustration of synthetic data generation process" src="https://user-images.githubusercontent.com/12199053/120874169-f2f95880-c5d7-11eb-8840-ef2ec44e0c56.png" >
 
 
 | | 1 | 2 | 3 | 4 | 5 |
