@@ -1,6 +1,6 @@
 # synthetic_xview_airplanes
 
-1. Open **CityEngine**
+1. Download **[CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)**, and open CityEngine
 
 2. Create a New CityEngine Project, then create a 3d scene (*.cej), which should be in the "scene" folder (in [scenes](https://github.com/yangxu351/synthetic_xview_airplanes/tree/master/scenes/scenes_of_xview)/*.cej), and in the top bar, use "Rectangular shape creation" to draw a rectangle in the 3d scene. ![image](https://user-images.githubusercontent.com/12199053/120770167-75d6d080-c550-11eb-9904-e33dbff1a866.png) 
  <img  alt = "image" src="https://user-images.githubusercontent.com/12199053/120770448-bb939900-c550-11eb-8354-12504507994b.png" width="304" height="304">
