@@ -31,7 +31,7 @@ Illustration of synthetic data generation process
 
 ### Clone the repository ###
 
-git clone https://github.com/yangxu351/synthetic_xview_airplanes.git
+```git clone https://github.com/yangxu351/synthetic_xview_airplanes.git```
 
 
 **Note: there is a bug of math log function in CityEngine**
