@@ -39,9 +39,10 @@ Illustration of synthetic data generation process
 ### Citation ###
 
 If you find these models useful for your resesarch, please cite with these bibtexs.
-
+```
 @article{yangxu2021,
   title={SIMPL: Generating Synthetic Overhead Imagery of Rare Target Objects to Enhance Zero-shot and Few-Shot Detection Problems},
   author={Yang Xu, Bohao Huang, Xiong Luo, Kyle Bradbury, and Jordan M. Malof},
   year={2021}
 }
+```
