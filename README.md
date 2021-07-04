@@ -47,6 +47,6 @@ If you find these models useful for your resesarch, please cite with these bibte
       title={SIMPL: Generating Synthetic Overhead Imagery to Address Zero-shot and Few-Shot Detection Problems}, 
       author={Yang Xu and Bohao Huang and Xiong Luo and Kyle Bradbury and Jordan M. Malof},
       year={2021},
-      journal={{arXiv preprint arXivarXiv:2106.15681}
+      journal={{arXiv preprint arXiv:2106.15681}
 }
 ```
